@@ -26,5 +26,6 @@ npm install
 
 ## Documentation
 
+- [Vue](documentation/vue.md)
 
 <!-- jhipster-needle-documentation -->
