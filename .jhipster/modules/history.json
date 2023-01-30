@@ -8,5 +8,14 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "prettier",
+    "date" : "2023-01-30T15:30:07.544022107Z",
+    "properties" : {
+      "projectName" : "Kanban Typescript",
+      "baseName" : "kanban",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
