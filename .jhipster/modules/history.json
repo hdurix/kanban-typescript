@@ -26,5 +26,14 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "optional-typescript",
+    "date" : "2023-01-30T15:30:07.611337287Z",
+    "properties" : {
+      "projectName" : "Kanban Typescript",
+      "baseName" : "kanban",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
